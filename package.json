@@ -1,0 +1,19 @@
+{
+  "name": "rest-api",
+  "version": "1.0.0",
+  "description": "Aprendiendo a realizar una Rest Api y usarlo en React",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rexpeto/Rest-Api.git"
+  },
+  "author": "Carlos Gallardo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rexpeto/Rest-Api/issues"
+  },
+  "homepage": "https://github.com/Rexpeto/Rest-Api#readme"
+}
