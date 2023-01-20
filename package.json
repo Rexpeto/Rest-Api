@@ -3,8 +3,10 @@
   "version": "1.0.0",
   "description": "Aprendiendo a realizar una Rest Api y usarlo en React",
   "main": "index.js",
+  "type": "module",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon ./index.js"
   },
   "repository": {
     "type": "git",
@@ -15,5 +17,11 @@
   "bugs": {
     "url": "https://github.com/Rexpeto/Rest-Api/issues"
   },
-  "homepage": "https://github.com/Rexpeto/Rest-Api#readme"
+  "homepage": "https://github.com/Rexpeto/Rest-Api#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
 }
